@@ -15,6 +15,7 @@ As for the “no policy” moniker, let’s just say it can be a bit silly to na
 Since a foundational principle of this policy is that you’re a responsible adult and will therefore strive to do the right thing with your time off, let’s call this modern liberal vacation policy “the Responsible Vacation Policy.” 
 
 A nice name doesn’t address the real issues though. What is this policy exactly, what are the ups and downs, and how do we address the legitimate concerns people have when trying to make it work?
+
 The Prereqs
 
 Certainly the Responsible Vacation Policy is not right for every company or every team. If a company operates on a rigid shift or hourly based scheduling system, this policy may not be right for it.
@@ -28,37 +29,44 @@ Your company’s operational logistics and legal requirements allow for the Resp
 You believe that your employees are capable of making highly personal decisions for themselves, and a company should not dictate those decisions. 
 
 If you have those things and you’re open to a better vacation policy, let’s explore what the Responsible Vacation Policy offers, how it works, and the challenges it presents...
+
 The Benefits
+
 Flexibility Is a Game Changer – for you and for HR
 
-Once upon a time I worked at a good, successful company that implemented a traditional 2 week paid vacation policy. One fine Sunday I woke up at home and felt like working. I had the whole Sunday to myself and decided to finish an important project my boss was waiting on. I spent 10 solid hours at my kitchen table cranking out code, and in the evening the project was completed, tested, and ready for production.
+Once upon a time I worked at a good, successful company that implemented a traditional 2 week paid vacation policy. One fine Sunday I felt like working on an important project my boss was waiting on. I spent 10 solid hours at my kitchen table cranking out code and testing.
 
-I waltzed in Monday morning and showed off the project. We threw that bad boy into production and it was a ”win.” Then I got to thinking: I spent my entire Sunday working on this. What if I could do something great like take off Wednesday without it counting against my 2 weeks of paid vacation? The surf report showed a decent southerly swell building mid-week and it’d be sweet to ride some less crowded waves[2]. How about we trade Sunday for Wednesday, I’ll hit Surfrider and get some nice long rights without all the kooks, and we can call it a win-win?
-
+I waltzed in Monday morning, showed off the project, threw it into production and it was a ”win.” Then I got to thinking: I spent my entire Sunday working on this. What if I could do something great like take off Wednesday off without it counting against my 2 weeks of paid vacation? The surf report showed a decent southerly swell building mid-week and it’d be sweet to ride some less crowded waves[2]. How about we trade Sunday for Wednesday, I’ll hit Surfrider and get some nice long rights without all the kooks, and we can call it a win-win?
+ 
 My idea was met with grumbling from my then-boss and dirty looks from his boss. HR was consulted to determine whether this would cause California to slide into the ocean like the mystics and statistics say it will. Eventually I got my way, after being assured that this could never happen again. “Highly unusual, too much paperwork, imagine the chaos if others found out.” Holy shit, I thought, there’s gotta be a better way. 
 
 And there is! 
 
 Under the Responsible Vacation Policy you’re free to take time off work when and how you want. Since you’re a responsible adult, it’s assumed you’ll make the appropriate arrangements with your team and clients, and that you’ll figure out how to make the right tradeoffs and still deliver overall results for your team.
+
 This also does away with questions around remote work, paid parental leave, religious holidays, and unforeseen circumstances like a long illness. An added benefit to HR is that the Responsible Vacation Policy removes the need to establish separate policies for these things and reduces the amount of paperwork for HR and accounting. 
 
 Sick Days Suck, So Don’t Have Them
 
-Days off are days off; you take as many of them as you deem appropriate. Perhaps some of those days off are because you’re sick and need to stay in bed. You don’t need to worry about separate tracking or accounting of sick days vs vacation days. This is valuable because you don’t want to have people in a situation where they feel they need to drag their sick body into the office.[4]
+Days off are days off; you take as many of them as you deem appropriate. Perhaps some of those days off are because you’re sick and need to stay in bed. You don’t need to worry about separate tracking or accounting of sick days vs vacation days. This is valuable because you don’t want to have people in a situation where they feel they need to drag their sick body into the office.[4] 
 
 The Responsible Vacation policy also relieves folks of the temptation to play sketchy games to unofficially turn sick days into vacation days. My Dad once told me a story about a colleague who called in sick and went to Disneyland. Of all the shitty luck, that guy’s boss also went to Disneyland and ran into him on Mr Toad’s Wild Ride. The next day the guy was fired. “What was he thinking?” you might ask. I dunno, maybe he had burned through all his official vacation days and really wanted to take the family to see Captain EO. The point is, the traditional sick vs vacation approach has a long history of being awkward and suboptimal. The Responsible Vacation policy nicely sidesteps all this silliness.
+
 The Challenges
+
 “But OMG people will take advantage of the company!”
 
 Not the people I work with, they won’t. That’s not who we are. 
 
 On the other hand if you’re working with people who aren’t motivated to achieve and instead are actively looking for ways to screw over their employer… well, then you’ve got bigger problems than your vacation policy.
 
-Admittedly there’s an area in between. Imagine an employee who takes this policy and chooses to live like a European with umpteen weeks off every year. What to do about that? Simply tie it back to performance and things become clear. If the employee taking extravagant vacations is kicking ass and fulfilling an important role, there’s no problem here. If his lifestyle negatively impacts his work and his team, his supervisor and HR can take appropriate action.
+Admittedly there’s an area in between. Imagine an employee who takes this policy and chooses to live like a European with umpteen weeks off every year. What to do about that? Simply tie it back to performance and things become clear. 
 
+If the employee taking extravagant vacations is kicking ass and fulfilling an important role, there’s no problem here. 
 
-But perhaps that’s not necessary. Perhaps she could simply have an open and honest conversation about overall performance expectations and point out that all this will be factored into the review process. Naturally this is going to limit the employee’s career and compensation track at the company. This is arguably quite fair to both parties and there’s no need for drama here.
- “How Much Vacation Should I Take?”
+But if his lifestyle negatively impacts his work and his team, his supervisor should take appropriate action. The first step would be for her to simply have an open and honest conversation about overall performance expectations and how this is factored into the review process. Naturally this is going to limit the employee’s career and compensation track at the company. This is arguably quite fair to both parties and there’s no need for drama here.
+ 
+“How Much Vacation Should I Take?”
 
 Speaking with my workmates, this is by far the biggest concern. How do you know how much time is reasonable to take off if there are no official numerical guidelines? 
 
@@ -74,47 +82,53 @@ One might argue that this boils down to a private, personal problem. However, a 
 
 #2 The Guilt Problem
 
-Some supervisors like to joke: “Sure you can take time off... “(insert guilt-inducing stare down) “... if you really think that’s the right thing to do.” The implication being: You’ll be judged harshly if take the time off while the rest of us are working.
+When Factual introduced this policy, a colleague of mine joked: “Sure you can take time off…” (insert guilt-inducing stare down) “... if you really think that’s the right thing to do.” I always laughed at this but the fact is there’s a real issue here that needs addressing. 
 
-I always laughed at this but the fact is there’s a real issue here that needs addressing. Some folks are genuinely reluctant to take time off because they worry that their reputation will be damaged as a result. These folks would prefer some minimum requirement so that everyone is effectively forced to take some amount of time off and no one need feel guilty about it.
+Some folks are genuinely reluctant to take time off because they worry that their reputation will be damaged as a result. These folks would prefer some minimum requirement so that everyone is effectively forced to take some amount of time off and no one need feel guilty about it.
+
+“But I Can’t Cash Out Unused Vacation Time When I Leave The Company”
+
+Some folks look forward to cashing out unused vacation time when they leave a job. It’s true that this policy does not allow for that.
+
+It’s also true that the accountants and investors of the world view this aspect as an advantage because accrued vacation is seen as company debt. But that’s not the point.[5]
+
+Assuming the company has their heart in the right place to begin with, this policy is not a ploy to get accrued vacation time off the books. From an operations point of view the real win is the overall simplification of the entire process.
+
+If you view the ability to cash out unused vacation time as a requirement of employment, this policy may not be right for you. However, I’d encourage you to seriously consider the overall benefits the policy offers… you might conclude it’s an overall win. 
 
 What About “20% time”?
 
 Meh. 
 
-I’m not convinced that I need my boss to tell me exactly what percentage of time I should spend being creative. Here’s a snippet from a recent email advertising a position at a local company working in the event ticketing space:
+I’m not convinced that I need my boss to tell me exactly what percentage of time I should spend being creative.
 
-This is great and all, I just wonder why time must be “set aside each week” for me to build things I think will help the company? Why not simply make that a part of my overall job description and then trust me to manage my time appropriately?
+Some companies have official policies that allocate a specific percentage of your time for “pet” projects. This is great and all, I just wonder why time must be “set aside each week” for me to build things I think will help the company? Why not simply make that a part of my overall job description and then trust me to manage my time appropriately?
 
-The Adult Vacation policy offers a useful umbrella of agency that transcends limited policies such as “20% time”.
+The Responsible Vacation policy offers a useful umbrella of agency that transcends limited policies such as “20% time”.
 
 For example, Drake, Factual’s open source data workflow tool, was born from an individual engineer’s passion to scratch an itch. In a different organization perhaps he would have “protected” this project under a “20% time” policy. But we didn’t need to do that.
 
-To this day, a large portion of the time spent developing Drake is not officially tracked -- as “20% time” or otherwise. Rather, grassroots projects like Drake naturally fall under a general principle of responsibility that is also a founding principle of the Adult Vacation policy: We’re expected to make good decisions with our time in general.  
+Grassroots projects like Drake naturally fall under a general principle of responsibility that is also a founding principle of this policy: We’re expected to make good time management decisions.  
 
 Risks that we take, winners or losers, are then evaluated on their merits and adjustments made as deemed appropriate. When there are questions around how much risk to take and for how long, a competent leader should be able to offer guidance. 
 
-A great supervisor will understand the power in giving adults the freedom to make these sorts of judgment calls for themselves. You can still assign time-boxes for creative work if you want, but maybe it’s not necessary.
 A Brave New World and The Struggle Is Real
 
-My wife Laura, as a university administrator, gets an unusually large amount of paid vacation time. She likes to get away for much of this time. When Factual entered this brave new world of the Adult Vacation policy I made the mistake of talking up the policy to Laura by suggesting we could go on all kinds of exotic trips and it wouldn’t be a problem at all as long as I had my trusty laptop and an internet connection. This was terribly naïve.
-
-You know, it’s so tempting to buy into the cliché of working at the beach, laptop open while sipping a fruity cocktail. But the reality is harder than it looks. Can you truly concentrate on work in a situation like that? And if so, for how long?
+When Factual entered this brave new world of the Responsible Vacation Policy I made the mistake of talking up the policy to my wife Laura by suggesting we could go on all kinds of exotic trips and it wouldn’t be a problem at all as long as I had my trusty laptop and an internet connection. This was terribly naïve.
 
 A while back Laura arranged a 2 week Kona get-away for us and some of her family. I marked my calendar as “remote” for that stretch of time and planned on putting in roughly a week’s worth of work while away. This was utterly moronic.
 
-We arrived in Kona and it turned out my awesome wife rented us a condo directly adjacent to Banyan’s -- tasty left breaks over the reef for my goofy self and a sweet hollow shape. And in our complex was a board rental shop. I could step onto our lānai, check the swell conditions, jog downstairs, grab the appropriate board and be surfing all in mere minutes. And let’s not forget I was already embedded in a full-on family vacation on the Big Island.
+We arrived in Kona and it turned out my awesome wife rented us a condo adjacent to Banyan’s -- tasty left breaks over the reef for my goofy self and a sweet hollow shape. I could step onto our lānai, check the swell conditions, grab my board and be surfing all in mere minutes.
 
 My original plan had been a level headed combination of vacation and productive work. But mostly I partied with family and surfed my brains out so you can see the abject failure here.
 
-The Kona trip and similar adventures have forced us to face some realities. If I’m going to leverage the Adult Vacation policy to take long trips out of town then I need to either (a) be far more disciplined about getting work done while away or (b) just be realistic up front and accept that I’m going to be Away On Vacation.
+The Kona trip and similar adventures have forced us to face some realities. If I’m going to leverage this policy to take long trips then I need to either (a) be far more disciplined about getting work done while away or (b) just be realistic up front and accept that I’m going to be Away On Vacation.
 
-Going with option (a) creates stress on the family side and mars the vacation, while going with option (b) creates the biggest hit to work productivity. I’ll be the first to admit there’s a struggle here and plenty of tension. But then, this is the right problem to have. At least here I have the opportunity to work out the best possible tradeoffs for me, my career, and my loved ones.
+Option (a) obstructs the vacation but option (b) creates the biggest hit to work productivity. There’s a struggle here, but it’s the right problem to have. At least here I have the opportunity to work out the best possible tradeoffs for me, my career, and my loved ones.
 
-Laura and I hit upon a rough guideline for me to follow. Some companies have vacation policies with a tiered system: After X years of service you’re awarded Y weeks of paid time off per year. We cribbed values for X and Y from a known company and set that as my suggested yearly time Away On Vacation. Beyond that it’s understood that I may choose to tag along on a trip but I’ll probably need to be disciplined about working remotely. This is a rough guideline, nothing more and nothing less. At the very least it provides a baseline that Laura and I can both agree on.
+Laura and I hit upon a rough guideline. Some companies have vacation policies with a tiered system: After X years of service you’re awarded Y weeks of paid time off per year. We cribbed values for X and Y from a known company and set that as my suggested yearly time Away On Vacation. Beyond that it’s understood that I may choose to tag along on a trip but I’ll probably need to be disciplined about working remotely. This is not a perfect solution but it provides a rough baseline and seems to work for us.
 
-This is my story working under the Adult Vacation policy. Your story will be different. Thanks to the flexible nature of this policy, practitioners have virtually endless options. I have every reason to hope that people using this policy will be able to tune it to fit their own unique personal situation.
-The Freedom
+This is my story working under the Responsible Vacation Policy. Your story will be different. The Responsible Vacation policy provides you with virtually endless options and I’m confident you’ll be able to tune it to fit your own unique personal situation.
 
 Democracy Is The Worst Form of Government...
 
@@ -123,7 +137,7 @@ It’s been said that democracy is the worst form of government... except for ev
 However, given a good crew of people and the proper legal and ethical foundation, the Responsible Vacation Policy may be the best corporate vacation policy known to mankind. It’s certainly the best vacation policy I’ve ever worked with.
 
 
- If you don’t have a full time job or you work for yourself or you work at a forward thinking company like Netflix or Factual then you are exempt from this claim and my vacation policy is not necessarily better than yours.
+* If you don’t have a full time job or you work for yourself or you work at a forward thinking company like Netflix or Factual then you are exempt from this claim and my vacation policy is not necessarily better than yours.
 
 [1] OMG don’t get an engineer started on the scandalous “NoSQL” sobriquet.
 http://blog.dhananjaynene.com/2009/10/stop-calling-me-nosql/
@@ -134,5 +148,5 @@ http://blog.dhananjaynene.com/2009/10/stop-calling-me-nosql/
 
 [4] If a workmate shows up to Factual visibly sick then they will be unceremoniously escorted out of the building and sternly admonished to stay home until they’re no longer contagious. We’ve got shit to do and have absolutely zero interest in sharing anyone’s plague.
 
-[5] If you find yourself at a company that uses the Adult Vacation policy primarily because it lets them do away with accrued debt on their books then OMG hasten down the wind and go find better people to work with.
+[5] If you find yourself at a company that uses this policy primarily because it lets them do away with accrued debt on their books then OMG hasten down the wind and go find better people to work with.
 
